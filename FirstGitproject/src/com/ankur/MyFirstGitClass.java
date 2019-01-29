@@ -7,6 +7,8 @@ public class MyFirstGitClass {
 		System.out.println("Hello World123456781");
 		
 		System.out.println("Hello World2");
+		
+		System.out.println("Hello Exiting");
 
 	}
 
